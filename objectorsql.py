@@ -87,7 +87,6 @@ class Student:
         else:
             print(f"{len(count)} kadar kadın var")
 
-Student.countgender("F")
 
 
 
